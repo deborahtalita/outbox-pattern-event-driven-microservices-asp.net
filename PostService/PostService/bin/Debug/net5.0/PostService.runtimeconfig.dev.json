@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\talit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\talit\\.nuget\\packages"
+    ]
+  }
+}
